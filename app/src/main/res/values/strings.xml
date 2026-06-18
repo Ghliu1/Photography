@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoGuide</string>
+    <string name="tip_starting">Hold steady — analysing the scene…</string>
+    <string name="tip_good">Looks great — hold steady and shoot!</string>
+    <string name="take_photo">Take photo</string>
+    <string name="flip_camera">Switch camera</string>
+    <string name="permission_needed">Camera permission is required to guide your shots.</string>
+    <string name="photo_saved">Photo saved</string>
+    <string name="photo_failed">Couldn\'t save photo</string>
+</resources>
